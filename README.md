@@ -19,7 +19,7 @@ Shuxia Guo (Leibniz-IPHT, Jena), Thomas Bocklitz (Leibniz-IPHT, Jena; University
 - SiameseNetwork.py: networks for network based model transfer: ordinary neural network, and siamese based network
 - network_fcn.py: VAE networks for spectra generation
 - utils.py: helping functions, including to prepare spectral pairs for VAE and siamese network.
-- /datasets: dataset used in the manuscript
+- /datasets: dataset used in the manuscript, large datasets will be available on Zenodo once the paper is accepted for publication.
 - /results: accuracy results
 
 
